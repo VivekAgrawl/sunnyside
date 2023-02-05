@@ -257,7 +257,10 @@ footer{
     }
     .nav-link{
         font-size: 1.3rem;
-        color: var(--dark-gray-blue)
+        color: var(--dark-gray-blue);
+    }
+    .nav-link:hover{
+        color: var(--dark-gray-blue);
     }
     .nav-btn{
         background-color: var(--yellow);
